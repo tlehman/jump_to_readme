@@ -21,7 +21,7 @@ install the script.
 
 ## To Use
 
-Hit Ctrl+D to jump to the readme section of the page.
+Hit the down arrow to jump to the readme section of the page.
 
 
 ## To Do List
