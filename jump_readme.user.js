@@ -1,7 +1,8 @@
 // ==UserScript==
 // @name          JumpToReadme
 // @description   Jump to the Readme section of a repository on GitHub 
-// @include       http://*.github.com/*
+// @include       http://github.com/*
+// @include       https://github.com/*
 // ==/UserScript==
 
 (function() {
