@@ -1,3 +1,8 @@
+// ==UserScript==
+// @name          JumpToReadme
+// @description   Jump to the Readme section of a repository on GitHub 
+// @include       http://*.github.com/*
+// ==/UserScript==
 
 (function() {
   window.onkeydown = function (event) {
